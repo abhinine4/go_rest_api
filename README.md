@@ -7,5 +7,5 @@ REST API in Go using Fiber and GORM
 - brew services <start/stop/restart> postgresql
 - createdb test
 - psql
-- >> CREATE USER postgres WITH PASSWORD 'postgres'
+- CREATE USER postgres WITH PASSWORD 'postgres'
 
